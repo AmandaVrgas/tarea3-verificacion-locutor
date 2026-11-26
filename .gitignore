@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+vox1_test_wav
+vox1_test_wav.zip

@@ -1,0 +1,5 @@
+modelo,protocolo,umbral_EER,score_maximo,aceptaciones,total_comparaciones,resultado
+ECAPA,A,0.2723333333333333,0.39012545347213745,22,4715,ACEPTADO por al menos una referencia
+ECAPA,B,0.3715,0.21601195633411407,0,40,IMPOSTOR (rechazado por todos)
+WAVLM,A,0.8735400000000001,0.9472975134849548,336,4715,ACEPTADO por al menos una referencia
+WAVLM,B,0.9085,0.9302966594696045,1,40,ACEPTADO por al menos una referencia
